@@ -1,0 +1,2 @@
+# Anthropic-CCAO-F-Exam-Preparation-Claude-Certified-Associate-Foundations-Practice-Questions
+Prepare for the Anthropic CCAO-F (Claude Certified Associate - Foundations) certification with practical study guidance, key concepts, and practice questions. Review prompts, Claude Projects, document handling, and AI workflows with SkillCertExams resources to build confidence and improve your preparation.
